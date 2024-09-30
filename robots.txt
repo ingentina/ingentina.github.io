@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ingentina.github.io/sitemap.html.gz
+Sitemap: https://ingentina.github.io/app/sitemap.html.gz
+Sitemap: https://ingentina.github.io/assets/sitemap.html.gz
+Sitemap: https://ingentina.github.io/css/sitemap.html.gz
+Sitemap: https://ingentina.github.io/data/sitemap.html.gz
+Sitemap: https://ingentina.github.io/includes/sitemap.html.gz
+Sitemap: https://ingentina.github.io/item/sitemap.html.gz
+Sitemap: https://ingentina.github.io/src/sitemap.html.gz
